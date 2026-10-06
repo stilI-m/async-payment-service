@@ -1,0 +1,7 @@
+.env
+.git
+.idea
+.build
+venv
+__pycache__
+*.py[cod]
